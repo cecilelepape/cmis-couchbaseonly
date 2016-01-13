@@ -1,4 +1,4 @@
-This project is a simple demo to show how to build a Content Management system flexible and scalable using Couchbase as the repository.  I did a previous implem where Couchbase is only used to store metadata. The storage can be either local in your filesystem or remote using AWS. The purpose of this project is to show that one can also use Couchbase to store the binary files themselves, with our own chunk manager.
+This project is a simple demo to show how to build a Content Management system flexible and scalable using Couchbase as the repository.  I did a previous implem where Couchbase is only used to store metadata. The storage can be either local in your filesystem or remote using AWS S3. The purpose of this project is to show that one can also use Couchbase to store the binary files themselves, with our own chunk manager.
 
 For more info check on http://cecilelepape.blogspot.fr/2016/01/storing-blobs-in-couchbase-for-content.html
 
